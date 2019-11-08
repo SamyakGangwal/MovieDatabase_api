@@ -6,3 +6,5 @@ Tasks remaining:1)recommendation
 2)user sign up and sign in 
 3)generating api key per user
 4)updating table of watchlist 
+Note:In order to use api you need postman
+and libraries:tmdbv3api,rest_framework,djangorestframework_simplejwt
