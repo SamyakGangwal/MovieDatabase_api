@@ -8,3 +8,6 @@ Tasks remaining:1)recommendation
 4)updating table of watchlist 
 Note:In order to use api you need postman
 and libraries:tmdbv3api,rest_framework,djangorestframework_simplejwt
+
+Admin username:samyak
+Password:sam12345
